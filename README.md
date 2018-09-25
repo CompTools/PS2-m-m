@@ -58,6 +58,6 @@ Using spacing to make code readable | 2 points | **1, no indentation, especially
 Getting the correct answer | 2 points |
 
 **Extra credit:**
-NA
+~~NA~~ 5 points
 **Total points:**
-19/20
+~~19/20~~ 24pts. 
