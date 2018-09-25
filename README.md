@@ -59,5 +59,6 @@ Getting the correct answer | 2 points |
 
 **Extra credit:**
 ~~NA~~ 5 points
+
 **Total points:**
 ~~19/20~~ 24pts. 
